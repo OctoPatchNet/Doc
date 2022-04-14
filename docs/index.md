@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to OctoPatch
+
+This awesome project will automate your office life - oder so ähnlich. Wir werden sehen...
 
 You can use the [editor on GitHub](https://github.com/OctoPatchNet/OctoPatchDoc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
